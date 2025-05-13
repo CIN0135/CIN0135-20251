@@ -1,6 +1,7 @@
-# Aula 03: Tipos primitivos, ponteiros, passagem por valor e referência 
+# Aula 03: Tipos primitivos, ponteiros
 
 - [Variáveis e Constantes](../../cpp/1_05_vars_constants_idx.md)
+- [Ponteiros](../../cpp/1_05_vars_constants_idx.md)
 
 
 
