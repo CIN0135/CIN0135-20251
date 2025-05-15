@@ -14,8 +14,8 @@
 |-------|------|------|-----------|---------------------------------------------------------|
 | Mai   | Ter  | 06   | Aula 01   | [Apresentação, Linguagens compiladas vs. interpretadas](aulas/aula01/aula01.md)   |
 |       | Qui  | 08   | Aula 02   |  [Modelo de compilação C/C++](./aulas/aula02/aula02.md)                                                       |
-|       | Ter  | 13   | Aula 03   | [Variáveis, Consntates, Ponteiros](./aulas/aula03/aula03.md)                                                        |
-|       | Qui  | 15   | Aula 04   |                                                         |
+|       | Ter  | 13   | Aula 03   | [Variáveis, Constantes, Ponteiros](./aulas/aula03/aula03.md)                                                        |
+|       | Qui  | 15   | Aula 04   | [Controle de fluxo, funções, arrays](./aulas/aula04/aula04.md)                                                        |
 |       | Ter  | 20   | Aula 05   |                                                         |
 |       | Qui  | 22   | Aula 06   |                                                         |
 |       | Ter  | 27   | Aula 07   |                                                         |
