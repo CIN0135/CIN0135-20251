@@ -16,7 +16,7 @@
 |       | Qui  | 08   | Aula 02   |  [Modelo de compilação C/C++](./aulas/aula02/aula02.md)                                                       |
 |       | Ter  | 13   | Aula 03   | [Variáveis, Constantes, Ponteiros](./aulas/aula03/aula03.md)                                                        |
 |       | Qui  | 15   | Aula 04   | [Controle de fluxo, funções, arrays](./aulas/aula04/aula04.md)                                                        |
-|       | Ter  | 20   | Aula 05   |                                                         |
+|       | Ter  | 20   | Aula 05   | [Arrays e alocação dinâmica de memória](./aulas/aula05/aula05.md)                                                        |
 |       | Qui  | 22   | Aula 06   |                                                         |
 |       | Ter  | 27   | Aula 07   |                                                         |
 |       | Qui  | 29   | Aula 08   |                                                         |
