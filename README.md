@@ -18,7 +18,7 @@
 |       | Qui  | 15   | Aula 04   | [Controle de fluxo, funções, arrays](./aulas/aula04/aula04.md)                                                        |
 |       | Ter  | 20   | Aula 05   | [Arrays e alocação dinâmica de memória](./aulas/aula05/aula05.md)                                                        |
 |       | Qui  | 22   | Aula 06   | [Strings, Stream I/O, C Structs](./aulas/aula06/aula06.md)                                                        |
-|       | Ter  | 27   | Aula 07   |                                                         |
+|       | Ter  | 27   | Aula 07   | [Listas Simplesmente Encadeadas I](./aulas/aula07/aula07.md)                                                        |
 |       | Qui  | 29   | Aula 08   |                                                         |
 | Jun   | Ter  | 03   | Aula 09   |                                                         |
 |       | Qui  | 05   | Aula 10   |                                                         |
