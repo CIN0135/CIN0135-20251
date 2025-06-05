@@ -19,9 +19,9 @@
 |       | Ter  | 20   | Aula 05   | [Arrays e alocação dinâmica de memória](./aulas/aula05/aula05.md)                                                        |
 |       | Qui  | 22   | Aula 06   | [Strings, Stream I/O, C Structs](./aulas/aula06/aula06.md)                                                        |
 |       | Ter  | 27   | Aula 07   | [Listas Simplesmente Encadeadas I](./aulas/aula07/aula07.md)                                                        |
-|       | Qui  | 29   | Aula 08   |                                                         |
-| Jun   | Ter  | 03   | Aula 09   |                                                         |
-|       | Qui  | 05   | Aula 10   |                                                         |
+|       | Qui  | 29   | Aula 08   | [Listas Simplesmente Encadeadas II](./aulas/aula07/aula08.md)                                                       |
+| Jun   | Ter  | 03   | Aula 09   | LABORATÓRIO: GitHub Classroom                      |
+|       | Qui  | 05   | Aula 10   | [Introdução à Programação Orientada a Objetos: Abstração e Encapsulamento](./aulas/aula10/aula10.md)                 |
 |       | Ter  | 10   | Aula 11   |                                                         |
 |       | Qui  | 12   | Aula 12   |                                                         |
 |       | Ter  | 17   | Aula 13   |                                                         |
