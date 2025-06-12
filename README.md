@@ -22,8 +22,8 @@
 |       | Qui  | 29   | Aula 08   | [Listas Simplesmente Encadeadas II](./aulas/aula07/aula08.md)                                                       |
 | Jun   | Ter  | 03   | Aula 09   | LABORATÓRIO: GitHub Classroom                      |
 |       | Qui  | 05   | Aula 10   | [Introdução à Programação Orientada a Objetos: Abstração e Encapsulamento](./aulas/aula10/aula10.md)                 |
-|       | Ter  | 10   | Aula 11   |                                                         |
-|       | Qui  | 12   | Aula 12   |                                                         |
+|       | Ter  | 10   | Aula 11   | [Construtores, destrutores](./aulas/aula11/aula11.md)   |
+|       | Qui  | 12   | Aula 12   | [Filas e Pilhas](./aulas/aula12/aula12.md)              |
 |       | Ter  | 17   | Aula 13   |                                                         |
 |       | Qui  | 19   | Feriado   | *Corpus Christi*                                        |
 |       | Ter  | 24   | Feriado   | *São João*                                              |
