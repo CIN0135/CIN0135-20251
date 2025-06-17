@@ -24,12 +24,12 @@
 |       | Qui  | 05   | Aula 10   | [Introdução à Programação Orientada a Objetos: Abstração e Encapsulamento](./aulas/aula10/aula10.md)                 |
 |       | Ter  | 10   | Aula 11   | [Construtores, destrutores](./aulas/aula11/aula11.md)   |
 |       | Qui  | 12   | Aula 12   | [Filas e Pilhas](./aulas/aula12/aula12.md)              |
-|       | Ter  | 17   | Aula 13   |                                                         |
+|       | Ter  | 17   | Aula 13   | [Arrays dinâmicos](./aulas/aula13/aula13.md)            |
 |       | Qui  | 19   | Feriado   | *Corpus Christi*                                        |
 |       | Ter  | 24   | Feriado   | *São João*                                              |
-|       | Qui  | 26   | Prova     | **PROVA 1**                                             |
-| Jul   | Ter  | 01   | Aula 14   |                                                         |
-|       | Qui  | 03   | Aula 15   |                                                         |
+|       | Qui  | 26   | Aula 14   |                                                         |
+| Jul   | Ter  | 01   | Aula 15   |                                                         |
+|       | Qui  | 03   | Prova     | **PROVA 1**                                             |
 |       | Ter  | 08   | Aula 16   |                                                         |
 |       | Qui  | 10   | Aula 17   |                                                         |
 |       | Ter  | 15   | Aula 18   |                                                         |
