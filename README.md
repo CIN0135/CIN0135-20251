@@ -2,8 +2,6 @@
 
 ### 👨‍🏫 Prof. Paulo Fonseca
 
-### 🤓 Monitores: TBD
-
 ### ⏰ Horários: Ter 13-15h Qui 15-17h
 
 ### 🖥️ Sala: Grad 05
@@ -43,3 +41,10 @@
 |       | Ter  | 12   | Aula 26   |                                                         |
 |       | Qui  | 14   | Prova 2   | **PROVA 2**                                             |
 |       | Ter  | 19   | Final     | **PROVA FINAL**                                         |
+
+### ✅ Avaliação:
+
+- 2 Unidades
+- Cada unidade:
+	- Listas de Exercício de Programação = 60%
+	- Prova = 40%
