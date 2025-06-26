@@ -25,7 +25,7 @@
 |       | Ter  | 17   | Aula 13   | [Arrays dinâmicos](./aulas/aula13/aula13.md)            |
 |       | Qui  | 19   | Feriado   | *Corpus Christi*                                        |
 |       | Ter  | 24   | Feriado   | *São João*                                              |
-|       | Qui  | 26   | Aula 14   |                                                         |
+|       | Qui  | 26   | Aula 14   | [POO: Herança e Polimorfismo](./aulas/aula14/aula14.md) |
 | Jul   | Ter  | 01   | Aula 15   |                                                         |
 |       | Qui  | 03   | Prova     | **PROVA 1**                                             |
 |       | Ter  | 08   | Aula 16   |                                                         |
