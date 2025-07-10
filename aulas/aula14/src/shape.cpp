@@ -17,13 +17,21 @@ public:
 	}
 private:
 	const char *myname = "Shape";
+
+public:
+	int puba = 0;
+protected:
+	int prota = 10;
+private:
+	int priva = 20;
+
 };
 
 
 static const double PI = 3.1415;
 
 // Concrete subclass: Circle
-class Circle : public Shape
+class Circle : protected Shape
 {
 public:
 	explicit Circle(double radius): radius{radius} {};
@@ -93,7 +101,15 @@ void draw(Rectangle r, Point topLeft)
 
 int main () {
 	Circle cobj{2};
+
+	std::cout << cobj.puba << std::endl;
+	std::cout << cobj.prota << std::endl;
+	std::cout << cobj.priva << std::endl;
+
+
+
 	Rectangle robj{3, 4};
+
 	draw(cobj, Point{0, 0});
 	draw(robj, Point{0, 0});
 }
@@ -113,5 +129,5 @@ int amain() {
 	printArea(&c);
 
 	printArea(&r);
-
+	return 0;
 }
