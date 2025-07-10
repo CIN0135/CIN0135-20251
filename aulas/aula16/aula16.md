@@ -128,5 +128,5 @@ $$
 
 
 $$
-h(k) = \text{3 bits no "meio" do produto}
+h(k) = \text{3 bits no ``meio'' do produto}
 $$

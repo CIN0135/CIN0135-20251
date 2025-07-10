@@ -28,7 +28,7 @@
 |       | Qui  | 26   | Aula 14   | [POO: Herança e Polimorfismo](./aulas/aula14/aula14.md) |
 | Jul   | Ter  | 01   | Aula 15   | [C++: Ponteiros vs referências, Templates e Programação Genérica](./aulas/aula15/aula15.md)    |
 |       | Qui  | 03   | Prova     | **PROVA 1**                                             |
-|       | Ter  | 08   | Aula 16   |                                                         |
+|       | Ter  | 08   | Aula 16   | [Hashtables I: Definição, funções de dispersão](./aulas/aula16/aula16.md)   |
 |       | Qui  | 10   | Aula 17   |                                                         |
 |       | Ter  | 15   | Aula 18   |                                                         |
 |       | Qui  | 17   | Aula 19   |                                                         |
