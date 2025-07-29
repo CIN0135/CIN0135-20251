@@ -29,16 +29,16 @@
 | Jul   | Ter  | 01   | Aula 15   | [C++: Ponteiros vs referências, Templates e Programação Genérica](./aulas/aula15/aula15.md)    |
 |       | Qui  | 03   | Prova     | **PROVA 1**                                             |
 |       | Ter  | 08   | Aula 16   | [Hashtables I: Definição, funções de dispersão](./aulas/aula16/aula16.md)   |
-|       | Qui  | 10   | Aula 17   |                                                         |
-|       | Ter  | 15   | Aula 18   |                                                         |
-|       | Qui  | 17   | Aula 19   |                                                         |
-|       | Ter  | 22   | Aula 20   |                                                         |
-|       | Qui  | 24   | Aula 21   |                                                         |
-|       | Ter  | 29   | Aula 22   |                                                         |
-| Ago   | Qui  | 31   | Aula 23   |                                                         |
-|       | Ter  | 05   | Aula 24   |                                                         |
-|       | Qui  | 07   | Aula 25   |                                                         |
-|       | Ter  | 12   | Aula 26   |                                                         |
+|       | Qui  | 10   | Aula 17   | [Hashtables II: Resolução de colisões por encadeamento](./aulas/aula17/aula15.md)    |
+|       | Ter  | 15   | -------   | Aula suspensa devido a participação em banca de concurso         |
+|       | Qui  | 17   | Aula 18   | [Hashtables III: Resolução de colisões por endereçamento aberto](./aulas/aula18/aula18.md)        |
+|       | Ter  | 22   | Aula 19   | [Hashtables IV: Hashsets e dicionários](./aulas/aula19/aula19.md)                                                        |
+|       | Qui  | 24   | Aula 20   |                                                         |
+|       | Ter  | 29   | Aula 21   |                                                         |
+| Ago   | Qui  | 31   | Aula 22   |                                                         |
+|       | Ter  | 05   | Aula 23   |                                                         |
+|       | Qui  | 07   | Aula 24   |                                                         |
+|       | Ter  | 12   | Aula 25   |                                                         |
 |       | Qui  | 14   | Prova 2   | **PROVA 2**                                             |
 |       | Ter  | 19   | Final     | **PROVA FINAL**                                         |
 
