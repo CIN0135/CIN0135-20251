@@ -33,9 +33,9 @@
 |       | Ter  | 15   | -------   | Aula suspensa devido a participação em banca de concurso         |
 |       | Qui  | 17   | Aula 18   | [Hashtables III: Resolução de colisões por endereçamento aberto](./aulas/aula18/aula18.md)        |
 |       | Ter  | 22   | Aula 19   | [Hashtables IV: Hashsets e dicionários](./aulas/aula19/aula19.md)                                                        |
-|       | Qui  | 24   | Aula 20   |                                                         |
-|       | Ter  | 29   | Aula 21   |                                                         |
-| Ago   | Qui  | 31   | Aula 22   |                                                         |
+|       | Qui  | 24   | Aula 20   | [Árvores I: definição, árvores binárias, percurso em árvores](./aulas/aula20/aula20.md)   |
+|       | Ter  | 29   | Aula 21   | [Árvores II: aplicação de percursos em árvores binárias, árvores n-árias](./aulas/aula21/aula21.md)                                          |
+| Ago   | Qui  | 31   | Aula 22   | [Árvores III: Implementação de árvore n-árias](./aulas/aula22.md)     |
 |       | Ter  | 05   | Aula 23   |                                                         |
 |       | Qui  | 07   | Aula 24   |                                                         |
 |       | Ter  | 12   | Aula 25   |                                                         |
