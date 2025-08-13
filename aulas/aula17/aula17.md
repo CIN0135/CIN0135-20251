@@ -59,20 +59,19 @@ $$
     - `m` = número de posições da tabela
 - O fator de carga dá uma ideia da ocupação média da tabela
 
+⇨ Tempo médio (número de comparações) das operações no hashing aberto
 
-```
+<img src="./openhashing.png" width=500/>
 
-↑ Tempo
-|
-Tins
-|
-\|&#x20;
-\| &#x20;
-\|   \      Tdel
-\|    \     /
-\|     \   /
-\|      \ /
-\|       \*
-+----------------→ α (fator de carga)
-(α = 1)
-```
+   (*) supondo dispersão uniforme simples
+
+### Rehashing
+
+- Para manter o tempo limitado a um valor máximo $t_{max}$, precisamos limitar o fator de carga a um valor máximo $\alpha_{max}$ (ex. 0,75)
+- Quanto maior o $\alpha_{max}$, maior o $t_{max}$, porém menor o espaço usado pela tabela
+- Quando o fator de carga $alpha$ atingir o limite $\alpha_{max}$, executa uma redistribuição (**rehashing**):
+   - Cria uma nova tabela com o dobro da capacidade atual `m'=2*m`
+   - **Re-insere** todos os elementos da tabela na nova tabela, usando o mesmo processo de inserção, porém considerando o novo valor `m'` no cálculo da função de dispersão
+   - Ao final, descarta a antiga tabela e continua com a nova tabela. O novo fator de carga será $\alpha' = n/m' = \alpha/2 < \alpha_{max}$
+
+⚠️ Por razões análogas aos da [análise dos arrays dinâmicos](../aula13/aula13.md), o tempo de duplicação das tabelas devido ao rehashing é amortizado ao longo das inserções, acrescentando apenas um fator constante na média por elemento.

@@ -125,8 +125,6 @@ $$
            011 : (A*k mod 2^w) >> (w-r)
 ```
 
-
-
 $$
 h(k) = \text{3 bits no ``meio'' do produto}
 $$

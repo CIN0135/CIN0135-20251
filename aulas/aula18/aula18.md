@@ -86,4 +86,8 @@ $$
 
 ⚠️ **Problema:** Clustering secundário - Se `h₀` gera cluster, `h` também gera.
 
+### Tempo das operações do closed hashing
 
+<img src="./closedhashing.png" width=500/>
+
+- Para garantir um tempo máximo $t_{max}$ por operação, escolhemos um fator de carga máximo $\alpha_{max}$ (ex. 0.5) e realizamos o rehashing como descrito anteriormente
