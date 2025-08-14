@@ -8,12 +8,12 @@ template <typename T>
 class Node {
     T val;
     Node* firstChd;
-    Node* sibling;
+    Node* nextSibling;
 public:
     Node(const T& value) {
         val = value;
         firstChd = nullptr;
-        sibling = nullptr;
+        nextSibling = nullptr;
     }
 
     T const& Val(){
@@ -23,7 +23,7 @@ public:
         int cnt = 0;
         Node *cur = this->firstChd;
         while(cur != nullptr) {
-            cur = cur->sibling;
+            cur = cur->nextSibling;
             cnt++;
         }
         return cnt;
@@ -32,7 +32,7 @@ public:
         int cnt = 0;
         Node *cur = this->firstChd;
         while(cnt < i) {
-            cur = cur->sibling;
+            cur = cur->nextSibling;
             cnt++;
         }
         return cur;
@@ -43,10 +43,10 @@ public:
             return;
         }
         Node *cur = this->firstChd;
-        while(cur->sibling != nullptr) {
-            cur = cur->sibling;
+        while(cur->nextSibling != nullptr) {
+            cur = cur->nextSibling;
         }
-        cur->sibling = c;  
+        cur->nextSibling = c;  
     }
 };
 

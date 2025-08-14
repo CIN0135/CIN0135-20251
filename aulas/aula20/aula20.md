@@ -111,5 +111,8 @@ A definição abaixo ajuda a pensar numa árvore binária como uma estrutura rec
 
 ### Exemplo
 
-<img src="./binary_tree.png" width=400/>
+<img src="./binary_tree.png" width=300/>
 
+
+___
+[[Código-fonte: /src]](./src)   [[< Anterior]](../aula19/aula19.md) [[Próximo >]](../aula21/aula21.md) [[Índice ^]](../index.md)

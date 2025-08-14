@@ -91,3 +91,7 @@ $$
 <img src="./closedhashing.png" width=500/>
 
 - Para garantir um tempo máximo $t_{max}$ por operação, escolhemos um fator de carga máximo $\alpha_{max}$ (ex. 0.5) e realizamos o rehashing como descrito anteriormente
+
+
+___
+[[Código-fonte: /src]](./src)   [[< Anterior]](../aula17/aula17.md) [[Próximo >]](../aula19/aula19.md) [[Índice ^]](../index.md)

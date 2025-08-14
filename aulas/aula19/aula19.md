@@ -54,3 +54,7 @@ Dictionary::contains(key)
     - `elem` precisa ser comparável por equivalência ('==')
     - Se `elem1 == elem2` então devemos ter `hashcode(elem1) == hashcode(elem2)`
 - Dessa forma o Hashset pode ser implementado de forma análoga a um dicionário, apenas ignorando o `value`
+
+
+___
+[[Código-fonte: /src]](./src)   [[< Anterior]](../aula18/aula18.md) [[Próximo >]](../aula20/aula20.md) [[Índice ^]](../index.md)

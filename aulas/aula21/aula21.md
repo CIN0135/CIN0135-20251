@@ -62,5 +62,10 @@ int height(Node *root)
     int Hright = height(root->right);
     return 1 + max(Hleft, Hright);
 }
+```
 
 ⚠️ Percurso em **pós-ordem**
+
+
+___
+[[Código-fonte: /src]](./src)   [[< Anterior]](../aula20/aula20.md) [[Próximo >]](../aula22/aula22.md) [[Índice ^]](../index.md)

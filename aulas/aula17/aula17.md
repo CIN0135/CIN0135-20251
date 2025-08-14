@@ -75,3 +75,7 @@ $$
    - Ao final, descarta a antiga tabela e continua com a nova tabela. O novo fator de carga será $\alpha' = n/m' = \alpha/2 < \alpha_{max}$
 
 ⚠️ Por razões análogas aos da [análise dos arrays dinâmicos](../aula13/aula13.md), o tempo de duplicação das tabelas devido ao rehashing é amortizado ao longo das inserções, acrescentando apenas um fator constante na média por elemento.
+
+
+___
+[[Código-fonte: /src]](./src)   [[< Anterior]](../aula16/aula16.md) [[Próximo >]](../aula18/aula18.md) [[Índice ^]](../index.md)

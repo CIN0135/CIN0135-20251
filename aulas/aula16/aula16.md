@@ -128,3 +128,6 @@ $$
 $$
 h(k) = \text{3 bits no ``meio'' do produto}
 $$
+
+___
+[[Código-fonte: /src]](./src)   [[< Anterior]](../aula15/aula15.md) [[Próximo >]](../aula17/aula17.md) [[Índice ^]](../index.md)
