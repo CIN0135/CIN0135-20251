@@ -1,4 +1,4 @@
-# Aula 14: C++: Ponteiros vs Referências
+# C++: Ponteiros vs Referências
 
 Ponteiros e referências são formas de acessar e manipular variáveis indiretamente, mas diferem em como funcionam e são usados.
 

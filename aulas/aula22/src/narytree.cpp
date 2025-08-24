@@ -27,7 +27,14 @@ public:
     }
 };
 
-
+template <typename T>
+void print(Node<T>* root) {
+    if (!root) return;
+    std::cout << root->val << "\n";
+    for (auto c : root->chd) {
+        print(c);
+    }
+}
 
 Node<string> *makeExample() {
     Node<string> *a = new Node<string>("A");
